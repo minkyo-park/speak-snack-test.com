@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # 사이트맵 위치
-Sitemap: https://skyhacker.net/sitemap.xml
+Sitemap: https://speak.snack-test.com/sitemap.xml
 
 # 크롤링 허용
 Crawl-delay: 1
