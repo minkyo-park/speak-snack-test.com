@@ -1,0 +1,129 @@
+[
+  {
+    "id": "spic-premium-plus-20",
+    "title": "스픽 프리미엄 플러스 첫 결제 20% 할인",
+    "summary": "신규 구독자 대상 첫 결제 20% 할인",
+    "description": "스픽 프리미엄 플러스 플랜을 처음 구독하는 신규 사용자에게 첫 결제 시 20% 할인 혜택을 제공합니다. 고급 AI 기능과 무제한 사용량을 저렴한 가격에 경험해보세요.",
+    "terms": {
+      "eligible": "신규 계정",
+      "minSpend": 0,
+      "platform": "앱/웹 공통",
+      "notes": "일부 결제수단 제외 가능"
+    },
+    "validity": {
+      "start": "2025-10-01",
+      "end": "2025-12-31"
+    },
+    "status": "active",
+    "tags": ["프리미엄플러스", "신규할인"],
+    "landingUrl": "#",
+    "discountValue": "20%",
+    "discountType": "percentage"
+  },
+  {
+    "id": "spic-fall-event",
+    "title": "가을 프로모션 추가 크레딧",
+    "summary": "기간 한정 추가 크레딧 제공",
+    "description": "가을 시즌을 맞아 스픽 프리미엄 플러스 구독 시 추가 크레딧을 제공합니다. 더 많은 AI 기능을 활용할 수 있는 기회를 놓치지 마세요.",
+    "terms": {
+      "eligible": "전체",
+      "minSpend": 10000,
+      "platform": "웹 전용",
+      "notes": "중복 적용 불가"
+    },
+    "validity": {
+      "start": "2025-10-05",
+      "end": "2025-11-05"
+    },
+    "status": "ending-soon",
+    "tags": ["시즌프로모션", "크레딧"],
+    "landingUrl": "#",
+    "discountValue": "5,000원",
+    "discountType": "fixed"
+  },
+  {
+    "id": "spic-student-discount",
+    "title": "학생 할인 프로모션",
+    "summary": "학생 인증 시 30% 할인",
+    "description": "재학생 인증을 완료한 사용자에게 스픽 프리미엄 플러스 플랜 30% 할인 혜택을 제공합니다. 학업에 도움이 되는 AI 기능을 저렴하게 이용하세요.",
+    "terms": {
+      "eligible": "학생 인증 완료자",
+      "minSpend": 0,
+      "platform": "앱/웹 공통",
+      "notes": "학생증 인증 필수"
+    },
+    "validity": {
+      "start": "2025-09-01",
+      "end": "2025-12-31"
+    },
+    "status": "active",
+    "tags": ["학생할인", "인증필수"],
+    "landingUrl": "#",
+    "discountValue": "30%",
+    "discountType": "percentage"
+  },
+  {
+    "id": "spic-yearly-plan",
+    "title": "연간 구독 특가",
+    "summary": "연간 구독 시 2개월 무료",
+    "description": "스픽 프리미엄 플러스를 연간 구독하면 2개월을 무료로 이용할 수 있습니다. 장기 이용자에게 최적화된 할인 혜택입니다.",
+    "terms": {
+      "eligible": "전체",
+      "minSpend": 0,
+      "platform": "앱/웹 공통",
+      "notes": "연간 구독 시에만 적용"
+    },
+    "validity": {
+      "start": "2025-01-01",
+      "end": "2025-12-31"
+    },
+    "status": "active",
+    "tags": ["연간구독", "무료기간"],
+    "landingUrl": "#",
+    "discountValue": "2개월 무료",
+    "discountType": "free_period"
+  },
+  {
+    "id": "spic-limited-time",
+    "title": "한정 시간 특가",
+    "summary": "48시간 한정 50% 할인",
+    "description": "매주 금요일 오후 6시부터 일요일 오후 6시까지 48시간 동안만 제공되는 특별 할인입니다. 놓치면 후회하는 기회!",
+    "terms": {
+      "eligible": "전체",
+      "minSpend": 0,
+      "platform": "앱/웹 공통",
+      "notes": "매주 금-일 48시간 한정"
+    },
+    "validity": {
+      "start": "2025-10-04",
+      "end": "2025-10-06"
+    },
+    "status": "limited-time",
+    "tags": ["한정특가", "시간제한"],
+    "landingUrl": "#",
+    "discountValue": "50%",
+    "discountType": "percentage"
+  },
+  {
+    "id": "spic-referral-bonus",
+    "title": "친구 추천 보너스",
+    "summary": "친구 추천 시 양쪽 모두 혜택",
+    "description": "친구를 스픽 프리미엄 플러스로 추천하면 추천인과 피추천인 모두에게 1개월 무료 이용권을 제공합니다.",
+    "terms": {
+      "eligible": "친구 추천 완료자",
+      "minSpend": 0,
+      "platform": "앱/웹 공통",
+      "notes": "친구 가입 완료 후 지급"
+    },
+    "validity": {
+      "start": "2025-01-01",
+      "end": "2025-12-31"
+    },
+    "status": "active",
+    "tags": ["추천보상", "무료기간"],
+    "landingUrl": "#",
+    "discountValue": "1개월 무료",
+    "discountType": "free_period"
+  }
+]
+
